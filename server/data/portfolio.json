@@ -1,0 +1,133 @@
+{
+  "profile": {
+    "name": "Nejat Mussa",
+    "title": "Web Developer & Designer",
+    "tagline": ["Developer", "Competitive Programmer"],
+    "about": "Wellcome to my portfolio, This is Nejat Mussa,from ASTU. I'm a 21-year-old Third-year Software Engineering student and Competitive programmer. I'm a moderat programmer with deeply passionate about coding and dedicate time to it every day to strengthen my problem-solving skills. I'm a web developer with a strong focus on user-centered designed websites. I enjoy building responsive and user-friendly websites and I'm always looking to expand my full-stack development skills.",
+    "role": "Web Developer and Web Designer.",
+    "subtitle": "Full-stack development student.",
+    "birthday": "21 Jan 2005",
+    "age": 21,
+    "phone": "+251908363529",
+    "email": "nejatmussa605@gmail.com",
+    "city": "Addis Ababa, Ethiopia",
+    "address": "ASTU, Adama, Ethiopia",
+    "images": {
+      "profile": "/images/my.jpg",
+      "hero": "/images/me.jpg"
+    },
+    "social": {
+      "telegram": "http://t.me/haysemm",
+      "github": "https://github.com/nejuwa",
+      "linkedin": "https://www.linkedin.com/in/nejat-mussa-482b23372/"
+    }
+  },
+  "skillsIntro": "I have some skills up to now.",
+  "skills": [
+    { "name": "HTML", "level": 95 },
+    { "name": "tailwind css", "level": 80 },
+    { "name": "Javascript", "level": 90 },
+    { "name": "React", "level": 90 },
+    { "name": "Nodejs, Expressjs", "level": 70 },
+    { "name": "Python", "level": 80 },
+    { "name": "Mysql", "level": 80 },
+    { "name": "c++", "level": 80 },
+    { "name": "java", "level": 70 }
+  ],
+  "resume": {
+    "summary": {
+      "title": "Nejat Mussa",
+      "description": "Passionate MERN stack development with around 6 months of experience creating beauityfull and responsive websites.commiting to writing clean code and delivering client satisfaction..",
+      "contact": ["ASTU, Adama", "+2519 0836 3529", "nejatmussa605gmail.com"]
+    },
+    "education": [
+      {
+        "degree": "Student in BACHELOR OF SOFTWARE ENGINEERING IN ADAMA SCIENCE AND TECHNOLOGY UNIVERSITY.",
+        "school": "",
+        "period": "Joined in 2023",
+        "focus": "Focused on web development.",
+        "description": "I am studing Software engineering at ASTU, and I am self learner of a full-stack developmnet also I am joined the special Tech club in ASTU known as CSEC CLUB that comprises many skilled developers and problem solvers."
+      }
+    ],
+    "experience": [
+      {
+        "title": "Junior web developer.",
+        "period": "July,2023 - Present",
+        "location": "ASTU,Adama, Ethiopia",
+        "highlights": [
+          "Master HTML, CSS, javaScript, React, Nodejs, Expressjs, Mysql, python...",
+          "Solving many problems in Codeforces.com and Leetcode.com",
+          "I rebuild Apple websites,todo list with react js, and i did a project Logistic Supply Chain - SQL Bank Management System adn project-phase-mobile-tasks with dart...",
+          "I builed classlink flutter App collaborate with my team to connnect Students with Teachers easily.",
+          "I build Smile fullStack website collaborate with my team to help patients book appointments with doctors.",
+          "I follow online cources."
+        ]
+      }
+    ],
+    "intro": "I want to be Creative Web Developer and UI/UX Designer with expertise in many programming languages, and user-centered design principles. Strong problem-solving abilities with a focus on optimizing performance."
+  },
+  "portfolioIntro": "Some My HTML and CSS Projects.",
+  "projects": [
+    {
+      "id": "box-model",
+      "title": "Box Model",
+      "description": "Simple Box Model by HTML & CSS.",
+      "image": "/images/image.png",
+      "category": "web",
+      "demoUrl": "https://visionary-clafoutis-b5d3e2.netlify.app/",
+      "tags": ["HTML", "CSS"]
+    },
+    {
+      "id": "apple-clone",
+      "title": "apple.com",
+      "description": "Rebuilding Apple Home Page by using HTML & CSS.",
+      "image": "/images/10001.jpg",
+      "category": "web",
+      "demoUrl": "https://cerulean-squirrel-1d2b99.netlify.app/",
+      "tags": ["HTML", "CSS"]
+    },
+    {
+      "id": "fruit-lovers",
+      "title": "Fruit Lovers",
+      "description": "Fruit Lovers by using Bootstrap",
+      "image": "/images/imgg.png",
+      "category": "web",
+      "demoUrl": "https://gentle-kulfi-a8f030.netlify.app/",
+      "tags": ["Bootstrap"]
+    }
+  ],
+  "githubProjects": [
+    {
+      "title": "SmileFlow",
+      "url": "https://github.com/samgirma/SmileFlow",
+      "description": "Full-stack app — patients book appointments with doctors."
+    },
+    {
+      "title": "ClassLink",
+      "url": "https://github.com/Zaf-Mif/ClassLink",
+      "description": "Flutter app — connect students with teachers."
+    }
+  ],
+  "services": [
+    {
+      "icon": "code",
+      "title": "Web Development",
+      "description": "Responsive websites with HTML, Tailwind CSS, JavaScript, and React."
+    },
+    {
+      "icon": "server",
+      "title": "MERN Stack",
+      "description": "Full-stack apps with React, Node.js, Express.js, and MySQL."
+    },
+    {
+      "icon": "palette",
+      "title": "UI/UX Design",
+      "description": "User-centered, responsive, and accessible web interfaces."
+    },
+    {
+      "icon": "cpu",
+      "title": "Competitive Programming",
+      "description": "Problem solving on Codeforces and LeetCode."
+    }
+  ]
+}

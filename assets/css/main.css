@@ -1273,3 +1273,23 @@ section,
 .starter-section {
   /* Add your styles here */
 }
+
+/*--------------------------------------------------------------
+# GitHub portfolio cards
+--------------------------------------------------------------*/
+.github-portfolio-card .github-card-icon {
+  min-height: 200px;
+  background: #040b14;
+  font-size: 4rem;
+  color: #ffffff;
+}
+
+.github-portfolio-card .portfolio-info {
+  opacity: 1;
+  background: rgba(20, 157, 221, 0.92);
+  position: relative;
+}
+
+.github-portfolio-card:hover .portfolio-info {
+  opacity: 1;
+}

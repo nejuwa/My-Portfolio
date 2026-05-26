@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.env
+server/data/portfolio.db
+server/data/portfolio.db-wal
+server/data/portfolio.db-shm
+server/data/messages.json
+*.log
+.DS_Store
